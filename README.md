@@ -68,7 +68,7 @@ cd RamiGPT
 docker compose up -d
 ```
 
-Access the application at: [https://127.0.0.1:5000](https://127.0.0.1:5000)
+Access the application at: [https://127.0.0.1:5001](https://127.0.0.1:5001)
 
 ## Run Locally
 

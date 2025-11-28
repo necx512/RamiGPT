@@ -5,7 +5,7 @@ services:
     image: python:3.9-slim
     container_name: flask_app
     ports:
-      - "5000:5000"
+      - "5001:5000"
     volumes:
       - .:/app               # Mounts the entire project directory to /app in the container
       - ./debug.log:/app/debug.log  # Mounts the debug.log file for direct access
