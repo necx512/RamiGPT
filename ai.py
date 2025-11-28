@@ -20,7 +20,7 @@ class OpenAIClient:
         str: The content of the response message.
         """
         completion = self.client.chat.completions.create(
-            model="gpt-3.5-turbo",
+            model="gpt-5-mini",
             messages=messages
         )
         return completion.choices[0].message.content.strip()
