@@ -5,22 +5,22 @@
 
 ## Timing Table
 
-| Task Description | Source | Start Time | End Time | Elapsed Time in Seconds | Model |
-|------------------|------------|------------|----------|--------------|-------|
-| symfonos5 | https://www.vulnhub.com/entry/symfonos-52,415/ | 2025-11-28 20:18:28.367 | 2025-11-28 20:19:18.888 | 0:00:50.521 | gpt-5-mini |
-| Escalate Linux 1 | https://www.vulnhub.com/entry/escalate_linux-1,323/ | 01.306601 | 14.134318 | 12.827717 | gpt-3.5-turbo |
-| Nyx 1 | https://www.vulnhub.com/entry/nyx-1,535/ | 55.620576 | 05.664968 | 10.044392 | gpt-3.5-turbo |
-| Venom: 1 | https://www.vulnhub.com/entry/venom-1,701/ | 25.598964 | 35.268614 | 09.669650 | gpt-3.5-turbo |
-| digitalworld.local: TORMENT | https://www.vulnhub.com/entry/digitalworldlocal-torment,299/ | 50.893860 | 00.622965 | 09.729105 | gpt-3.5-turbo |
-| digitalworld.local: DEVELOPMENT | https://www.vulnhub.com/entry/digitalworldlocal-development,280/ | 47.539752 | 57.450881 | 09.911129 | gpt-3.5-turbo |
-| Tiki: 1 | https://www.vulnhub.com/entry/tiki-1,525/ | 44.877072 | 55.043536 | 10.166464 | gpt-3.5-turbo |
-| hacksudo: L.P.E. | https://www.vulnhub.com/entry/hacksudo-lpe,698/ | 12.234327 | 22.080433 | 09.846106 | gpt-3.5-turbo |
-| DC: 2 | https://www.vulnhub.com/entry/dc-2,311/ | 16.866599 | 26.526931 | 09.660332 | gpt-3.5-turbo |
-| DevGuru: 1 | https://www.vulnhub.com/entry/devguru-1,620/ | 43.240171 | 53.594361 | 10.354190 | gpt-3.5-turbo |
-| serial: 1 | https://www.vulnhub.com/entry/serial-1,349/ | 23.184360 | 32.802188 | 09.617828 | gpt-3.5-turbo |
-| Dina: 1.0.1 | https://www.vulnhub.com/entry/dina-101,200/ | 22.744572 | 32.429961 | 09.685389 | gpt-3.5-turbo |
-| Autonomous - Hostname:pehost, Server:None, Username:zeus | Link | 2025-11-28 19:46:57.241595 | 2025-11-28 19:47:07.604764 | 0:00:10.363169 | gpt-3.5-turbo |
-| Autonomous - Hostname:pehost, Server:None, Username:zeus | Link | 2025-11-28 20:07:27.607245 | 2025-11-28 20:07:37.551688 | 0:00:09.944443 | gpt-3.5-turbo |
+| Task Description | Source | Elapsed Time in Seconds | Model |
+|------------------|------------|--------------|-------|
+| symfonos5 | https://www.vulnhub.com/entry/symfonos-52,415/ | 50.521 | gpt-5-mini |
+| Escalate Linux 1 | https://www.vulnhub.com/entry/escalate_linux-1,323/ | 12.827717 | gpt-3.5-turbo |
+| Nyx 1 | https://www.vulnhub.com/entry/nyx-1,535/ | 10.044392 | gpt-3.5-turbo |
+| Venom: 1 | https://www.vulnhub.com/entry/venom-1,701/ | 09.669650 | gpt-3.5-turbo |
+| digitalworld.local: TORMENT | https://www.vulnhub.com/entry/digitalworldlocal-torment,299/ | 09.729105 | gpt-3.5-turbo |
+| digitalworld.local: DEVELOPMENT | https://www.vulnhub.com/entry/digitalworldlocal-development,280/ | 09.911129 | gpt-3.5-turbo |
+| Tiki: 1 | https://www.vulnhub.com/entry/tiki-1,525/ | 10.166464 | gpt-3.5-turbo |
+| hacksudo: L.P.E. | https://www.vulnhub.com/entry/hacksudo-lpe,698/ | 09.846106 | gpt-3.5-turbo |
+| DC: 2 | https://www.vulnhub.com/entry/dc-2,311/ | 09.660332 | gpt-3.5-turbo |
+| DevGuru: 1 | https://www.vulnhub.com/entry/devguru-1,620/ | 10.354190 | gpt-3.5-turbo |
+| serial: 1 | https://www.vulnhub.com/entry/serial-1,349/ | 09.617828 | gpt-3.5-turbo |
+| Dina: 1.0.1 | https://www.vulnhub.com/entry/dina-101,200/ | 09.685389 | gpt-3.5-turbo |
+| Autonomous - Hostname:pehost, Server:None, Username:zeus | Link | 10.363169 | gpt-3.5-turbo |
+| Autonomous - Hostname:pehost, Server:None, Username:zeus | Link | 09.944443 | gpt-3.5-turbo |
 
 ---
 
